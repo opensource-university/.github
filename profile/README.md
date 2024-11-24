@@ -1,7 +1,5 @@
 ![Bem-vindo(a) ao OpenSource Courses](https://raw.githubusercontent.com/opensource-courses/.github/main/banners/banner-org.png)
 
-## Fala dev! ✌🏾
-
 > 💡 Olá, seja bem-vindo(a) à Open-source Courses, somos uma comunidade e plataforma opensource de educação em tecnologia.
 Todas as pessoas podem ver, modificar e distribuir os cursos de acordo com suas necessidades, segundo os princípios opensource.
 
